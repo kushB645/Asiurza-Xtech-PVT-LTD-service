@@ -2,51 +2,130 @@ export const services = [
   {
     slug: "solar-cold-storages",
     title: "Solar Cold Storages",
+
     image: "/images/solar-cold-storage.svg",
+
+    overview:
+      "Solar cold storage solutions designed for storing vegetables, fruits, flowers, dairy products, meat, fish and poultry, with X-Pack systems ranging from 5MT to 20MT.",
+
     paragraphs: [
-      "India and its states are one of the largest producers of horticultural commodities in the world and contributed 26% to country's GDP. However due to lack in storage infrastructure crores worth of food (fruits and vegetables) are wasted post-harvest.",
-      "Most of the time either market price is very high (consumer trouble) or very low (farmer trouble) is due to lack of minimum storage facility. The sufferers are majorly Indian Farmers, whose products either wasted or sold at a very low price in high production.",
-      "To overcome major obstructions of supply chain / store facility nearer to rural & villages, we bring a triple line approach “People, Profit & Planet” management style, solar cold storage, X- Pack to keep 5000 kgs (5MT) to 20,000 kgs (20MT) of vegetables, fruits, flowers, dairy products, meat, fish or poultry of many variants.",
-      "We have solar cold storage for various temperature range from -40 °C to 8 °C. ENERGY EFFICIENT LARGE COLD STORAGE (XL- PACK), of 30MT to 2200MT size are large best in class customized cold storage / warehouse primarily objectives on better cool retaining systems, less energy use & comparative cheap energy source for urban applications."
+      "India and its states are one of the largest producers of horticultural commodities in the world. However, due to a lack of storage infrastructure, large quantities of food can be wasted after harvest.",
+
+      "Most of the time either market price is very high or very low due to the lack of minimum storage facilities. The sufferers are majorly Indian farmers, whose products are either wasted or sold at a very low price during high production.",
+
+      "To overcome major supply chain and storage challenges nearer to rural and village areas, AXPL brings a triple line approach of People, Profit & Planet with solar cold storage solutions.",
+
+      "Solar cold storage systems are available for temperature ranges from -40 °C to 8 °C. Energy efficient large cold storage solutions are also available for larger applications."
+    ],
+
+    benefits: [
+      "X-Pack cold storage capacity from 5MT to 20MT.",
+      "Temperature range from -40 °C to 8 °C.",
+      "Suitable for vegetables, fruits and flowers.",
+      "Can be used for dairy products, meat, fish and poultry.",
+      "Energy-efficient cold storage solutions.",
+      "Solutions designed for rural and urban applications."
     ]
   },
+
   {
     slug: "electrical-system-solar-power",
     title: "Electrical System & Solar Power",
+
     image: "/images/solar-power.svg",
+
+    overview:
+      "Electrical, solar and automation solutions for commercial, industrial and renewable energy applications.",
+
     paragraphs: [
-      "Our company brings to bear a wealth of technical expertise, delivery quality and operations capability unlike any in the electrical and power sector market. With the latest updated technology, and accessories, zero upfront interest solutions and state-wide coverage, you’ll have comfort knowing your working with one of best Commercial and Industrial electrical and automation companies.",
-      "We have our own development team of engineers who also expertise in building electrification and management system automation.",
-      "AXPL’s product Xsolar Energy is your partner in renewables. With over 30 years of collective experience across all aspects of Engineering, Procurement and Construction (EPC) of renewables projects, our company brings to bear a wealth of technical expertise, quality in delivery and ongoing operations capability, unlike any in the market."
+      "Our company brings technical expertise, delivery quality and operations capability to the electrical and power sector market.",
+
+      "With updated technology and accessories, AXPL provides solutions for commercial and industrial electrical applications.",
+
+      "We have our own development team of engineers with expertise in building electrification and management system automation.",
+
+      "AXPL's Xsolar Energy works across renewable energy projects including Engineering, Procurement and Construction of renewable projects."
+    ],
+
+    benefits: [
+      "Commercial and industrial electrical solutions.",
+      "Building electrification and management system automation.",
+      "Solar power solutions for industrial applications.",
+      "Engineering, Procurement and Construction support.",
+      "Technical expertise across renewable energy projects.",
+      "Focus on quality, efficiency and reliable solutions."
     ]
   },
+
   {
     slug: "automation-water-system",
     title: "Automation & Water System",
+
     image: "/images/water-system.svg",
+
+    overview:
+      "Automation and IoT-based solutions focused on improving water management and reducing water and energy losses.",
+
     paragraphs: [
-      "The most precious resource of the world is at the verge of scarcity rural to urban India.",
-      "Our Focus Is To Improve Management Of Water Using IoT The Automation & IOT.",
+      "The most precious resource of the world is at the verge of scarcity from rural to urban India.",
+
+      "Our focus is to improve management of water using automation & IoT.",
+
       "Stopping wastages",
-      "improving the quality of supply",
-      "Manage energy usages in waste supply and distribution",
+
+      "Improving the quality of supply",
+
+      "Manage energy usages in water supply and distribution",
+
       "Increase water recovery rate and long-term cost savings"
+    ],
+
+    benefits: [
+      "Reduce water wastage.",
+      "Improve the quality of water supply.",
+      "Manage energy usage in water supply and distribution.",
+      "Increase water recovery rate.",
+      "Support long-term cost savings.",
+      "Use automation and IoT for better system management."
     ]
   },
+
   {
     slug: "electrical-vehicle",
     title: "Electrical Vehicle",
+
     image: "/images/electric-vehicle.svg",
+
+    overview:
+      "Electric vehicle solutions focused on economical running costs, useful range and conversion of existing petrol or diesel autos.",
+
     paragraphs: [
-      "We will convert your old petrol / diesel auto which run on expensive fuel into very cheap running electric auto",
+      "We will convert old petrol or diesel autos which run on expensive fuel into low-cost running electric autos.",
+
       "With This We Will Give You..",
+
       "Top speed more than 50km/hr",
+
       "High pickup",
+
       "1 Driver + 3 passenger + 35kgs of luggage",
+
       "Higher range of 100kms in a single full charge",
+
       "Recharge fast with ordinary house supply three pin socket",
+
       "Highly durable Lithium-ion battery of 2000 cycle charging with swapping options.",
+
       "Highly stable motor to withstand bad roads and rain."
+    ],
+
+    benefits: [
+      "Top speed of more than 50 km/hr.",
+      "Range of around 100 km on a full charge.",
+      "Capacity for 1 driver and 3 passengers.",
+      "Can carry up to 35 kg of luggage.",
+      "Charging using an ordinary three-pin house supply socket.",
+      "Lithium-ion battery with swapping options."
     ]
   }
 ];
