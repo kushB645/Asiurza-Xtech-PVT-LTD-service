@@ -1,26 +1,46 @@
-# AXPL Services — React + Tailwind
+# AXPL Services
 
-This project recreates ONLY the AXPL Services section shown in the provided screenshots.
+A React-based frontend for the Services section of the AXPL website.
 
-Included:
-- AXPL header/contact area
-- Navy navigation
-- Red active navigation
-- Red service page title banner
-- Two-column service layout
-- Large service image
-- Previous/next service controls
-- All Services sidebar
-- Quick Links sidebar
-- AXPL-style footer
-- Back-to-top button
-- Four service pages using React Router
+The project includes the main AXPL service pages with a reusable layout, responsive navigation, service sidebar, footer, and service-to-service navigation.
 
-Run:
+## Services
 
-npm install
-npm run dev
+- Solar Cold Storages
+- Electrical System & Solar Power
+- Automation & Water System
+- Electrical Vehicle
 
-Build:
+## Tech Stack
 
-npm run build
+- React
+- React Router DOM
+- Tailwind CSS
+- Vite
+- Lucide React
+
+## Project Structure
+
+```text
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── ServiceSidebar.jsx
+│   └── Footer.jsx
+│
+├── data/
+│   └── services.js
+│
+├── pages/
+│   └── ServicePage.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
+public/
+└── images/
+    ├── solar-cold-storage.svg
+    ├── solar-power.svg
+    ├── water-system.svg
+    └── electric-vehicle.svg
