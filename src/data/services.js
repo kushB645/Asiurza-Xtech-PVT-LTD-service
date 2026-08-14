@@ -3,7 +3,7 @@ export const services = [
     slug: "solar-cold-storages",
     title: "Solar Cold Storages",
 
-    image: "/images/solar-cold-storage.svg",
+    image: "/images/solar-cold-storages.png",
 
     overview:
       "Solar cold storage solutions designed for storing vegetables, fruits, flowers, dairy products, meat, fish and poultry, with X-Pack systems ranging from 5MT to 20MT.",
@@ -32,7 +32,7 @@ export const services = [
     slug: "electrical-system-solar-power",
     title: "Electrical System & Solar Power",
 
-    image: "/images/solar-power.svg",
+    image: "/images/solar-power.jpg",
 
     overview:
       "Electrical, solar and automation solutions for commercial, industrial and renewable energy applications.",
@@ -61,7 +61,7 @@ export const services = [
     slug: "automation-water-system",
     title: "Automation & Water System",
 
-    image: "/images/water-system.svg",
+    image: "/images/water-system.jpg",
 
     overview:
       "Automation and IoT-based solutions focused on improving water management and reducing water and energy losses.",
@@ -94,7 +94,7 @@ export const services = [
     slug: "electrical-vehicle",
     title: "Electrical Vehicle",
 
-    image: "/images/electric-vehicle.svg",
+    image: "/images/electric-vehicle.jpg",
 
     overview:
       "Electric vehicle solutions focused on economical running costs, useful range and conversion of existing petrol or diesel autos.",
